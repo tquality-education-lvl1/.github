@@ -1,6 +1,6 @@
-<a href="https://tquality.ru/">
-  <img src="https://raw.githubusercontent.com/tquality-education-lvl1/.github/main/assets/banner.svg" alt="Точка качества — образовательная программа, уровень 1" width="100%">
-</a>
+<p align="center">
+  <a href="https://tquality.ru/"><img src="https://raw.githubusercontent.com/tquality-education-lvl1/.github/main/assets/banner.svg" alt="Точка качества — образовательная программа, уровень 1" width="100%"></a>
+</p>
 
 # `.github`
 
